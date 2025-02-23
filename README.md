@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -30,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -84,6 +86,7 @@
 ## Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
@@ -98,6 +101,11 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
