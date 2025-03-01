@@ -39,12 +39,14 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
+| [2551-apply-operations-to-an-array](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Simulation
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2551-apply-operations-to-an-array](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3447-clear-digits) |
 ## Design
@@ -124,4 +126,8 @@
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
+## Two Pointers
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
