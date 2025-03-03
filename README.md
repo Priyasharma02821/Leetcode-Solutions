@@ -40,6 +40,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3447-clear-digits) |
@@ -131,6 +133,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 <!---LeetCode Topics End-->
