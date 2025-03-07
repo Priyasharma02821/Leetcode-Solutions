@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Data Stream
 |  |
@@ -136,4 +137,8 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
