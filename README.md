@@ -48,6 +48,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -158,5 +159,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [2665-minimum-time-to-repair-cars](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2690-house-robber-iv) |
 <!---LeetCode Topics End-->
