@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
