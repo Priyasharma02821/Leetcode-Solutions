@@ -110,6 +110,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2998-count-symmetric-integers](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Data Stream
 |  |
@@ -230,4 +231,8 @@
 | ------- |
 | [0768-partition-labels](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [2681-put-marbles-in-bags](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
