@@ -114,6 +114,7 @@
 | [0797-rabbits-in-forest](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2050-count-good-numbers](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2050-count-good-numbers) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
@@ -181,6 +182,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Two Pointers
 |  |
@@ -193,6 +195,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 ## Sliding Window
 |  |
@@ -250,4 +253,8 @@
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2050-count-good-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 <!---LeetCode Topics End-->
