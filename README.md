@@ -65,6 +65,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
@@ -207,6 +208,7 @@
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3483-alternating-groups-ii) |
@@ -225,6 +227,7 @@
 ## Queue
 |  |
 | ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Topological Sort
 |  |
@@ -263,4 +266,8 @@
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
