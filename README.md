@@ -57,6 +57,7 @@
 | [0797-rabbits-in-forest](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1364-tuple-with-same-product](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1656-count-good-triplets](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
@@ -256,6 +257,7 @@
 | ------- |
 | [0768-partition-labels](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2681-put-marbles-in-bags](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
 ## Enumeration
 |  |
