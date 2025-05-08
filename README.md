@@ -90,6 +90,7 @@
 | [3483-alternating-groups-ii](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Simulation
 |  |
@@ -112,6 +113,7 @@
 | [2434-design-a-number-container-system](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2681-put-marbles-in-bags](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -253,6 +256,7 @@
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -290,4 +294,5 @@
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 <!---LeetCode Topics End-->
