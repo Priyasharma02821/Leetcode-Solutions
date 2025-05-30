@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-closest-node-to-given-two-nodes">Find Closest Node to Given Two Nodes</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a <strong>directed</strong> graph of <code>n</code> nodes numbered from <code>0</code> to <code>n - 1</code>, where each node has <strong>at most one</strong> outgoing edge.</p>
+<h2><a href="https://leetcode.com/problems/find-closest-node-to-given-two-nodes">2438. Find Closest Node to Given Two Nodes</a></h2><h3>Medium</h3><hr><p>You are given a <strong>directed</strong> graph of <code>n</code> nodes numbered from <code>0</code> to <code>n - 1</code>, where each node has <strong>at most one</strong> outgoing edge.</p>
 
 <p>The graph is represented with a given <strong>0-indexed</strong> array <code>edges</code> of size <code>n</code>, indicating that there is a directed edge from node <code>i</code> to node <code>edges[i]</code>. If there is no outgoing edge from <code>i</code>, then <code>edges[i] == -1</code>.</p>
 
