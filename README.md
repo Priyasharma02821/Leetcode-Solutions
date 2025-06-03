@@ -82,6 +82,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1656-count-good-triplets](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -216,6 +217,7 @@
 | [0945-snakes-and-ladders](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -233,6 +235,7 @@
 ## Graph
 |  |
 | ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
