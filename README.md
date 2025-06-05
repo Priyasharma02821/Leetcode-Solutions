@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0768-partition-labels) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
@@ -369,4 +370,8 @@
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Union Find
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
