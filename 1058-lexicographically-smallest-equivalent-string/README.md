@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/lexicographically-smallest-equivalent-string">1058. Lexicographically Smallest Equivalent String</a></h2><h3>Medium</h3><hr><p>You are given two strings of the same length <code>s1</code> and <code>s2</code> and a string <code>baseStr</code>.</p>
+<h2><a href="https://leetcode.com/problems/lexicographically-smallest-equivalent-string">Lexicographically Smallest Equivalent String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given two strings of the same length <code>s1</code> and <code>s2</code> and a string <code>baseStr</code>.</p>
 
 <p>We say <code>s1[i]</code> and <code>s2[i]</code> are equivalent characters.</p>
 
