@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string">Using a Robot to Print the Lexicographically Smallest String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a string <code>s</code> and a robot that currently holds an empty string <code>t</code>. Apply one of the following operations until <code>s</code> and <code>t</code> <strong>are both empty</strong>:</p>
+<h2><a href="https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string">2520. Using a Robot to Print the Lexicographically Smallest String</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> and a robot that currently holds an empty string <code>t</code>. Apply one of the following operations until <code>s</code> and <code>t</code> <strong>are both empty</strong>:</p>
 
 <ul>
 	<li>Remove the <strong>first</strong> character of a string <code>s</code> and give it to the robot. The robot will append this character to the string <code>t</code>.</li>
