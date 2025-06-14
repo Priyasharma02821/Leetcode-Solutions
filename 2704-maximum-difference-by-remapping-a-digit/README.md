@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-difference-by-remapping-a-digit">2704. Maximum Difference by Remapping a Digit</a></h2><h3>Easy</h3><hr><p>You are given an integer <code>num</code>. You know that Bob will sneakily <strong>remap</strong> one of the <code>10</code> possible digits (<code>0</code> to <code>9</code>) to another digit.</p>
+<h2><a href="https://leetcode.com/problems/maximum-difference-by-remapping-a-digit">Maximum Difference by Remapping a Digit</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer <code>num</code>. You know that Bob will sneakily <strong>remap</strong> one of the <code>10</code> possible digits (<code>0</code> to <code>9</code>) to another digit.</p>
 
 <p>Return <em>the difference between the maximum and minimum&nbsp;values Bob can make by remapping&nbsp;<strong>exactly</strong> <strong>one</strong> digit in </em><code>num</code>.</p>
 
