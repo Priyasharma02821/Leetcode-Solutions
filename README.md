@@ -99,6 +99,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -333,6 +334,7 @@
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2681-put-marbles-in-bags](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -349,6 +351,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
