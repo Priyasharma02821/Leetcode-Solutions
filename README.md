@@ -98,6 +98,7 @@
 | [2048-build-array-from-permutation](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -310,6 +311,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2690-house-robber-iv) |
