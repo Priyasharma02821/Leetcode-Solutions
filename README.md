@@ -95,6 +95,7 @@
 | [1364-tuple-with-same-product](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2048-build-array-from-permutation](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
@@ -292,6 +293,7 @@
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0768-partition-labels) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -316,6 +318,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
@@ -348,6 +351,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
