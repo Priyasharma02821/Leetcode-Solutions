@@ -16,6 +16,7 @@
 | [1364-tuple-with-same-product](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1813-maximum-erasure-value](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -109,6 +110,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
+| [1813-maximum-erasure-value](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2048-build-array-from-permutation](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
@@ -346,6 +348,7 @@
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1813-maximum-erasure-value](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
