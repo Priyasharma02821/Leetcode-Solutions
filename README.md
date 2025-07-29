@@ -134,6 +134,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2479-meeting-rooms-iii](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -360,6 +361,7 @@
 | [1813-maximum-erasure-value](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -373,6 +375,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -382,6 +385,7 @@
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
