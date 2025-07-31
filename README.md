@@ -102,6 +102,7 @@
 | [0797-rabbits-in-forest](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -320,6 +321,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -383,6 +385,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
