@@ -95,6 +95,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -317,6 +318,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
