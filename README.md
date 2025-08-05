@@ -177,6 +177,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -189,6 +190,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Design
 |  |
 | ------- |
@@ -212,6 +214,7 @@
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
+| [3790-fruits-into-baskets-ii](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
 |  |
 | ------- |
@@ -393,6 +396,7 @@
 | [2690-house-robber-iv](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -527,4 +531,5 @@
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
