@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i">3461. Find the Minimum Area to Cover All Ones I</a></h2><h3>Medium</h3><hr><p>You are given a 2D <strong>binary</strong> array <code>grid</code>. Find a rectangle with horizontal and vertical sides with the<strong> smallest</strong> area, such that all the 1&#39;s in <code>grid</code> lie inside this rectangle.</p>
+<h2><a href="https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i">Find the Minimum Area to Cover All Ones I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a 2D <strong>binary</strong> array <code>grid</code>. Find a rectangle with horizontal and vertical sides with the<strong> smallest</strong> area, such that all the 1&#39;s in <code>grid</code> lie inside this rectangle.</p>
 
 <p>Return the <strong>minimum</strong> possible area of the rectangle.</p>
 
