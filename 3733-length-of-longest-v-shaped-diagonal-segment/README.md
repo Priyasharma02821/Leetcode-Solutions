@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment">Length of Longest V-Shaped Diagonal Segment</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>You are given a 2D integer matrix <code>grid</code> of size <code>n x m</code>, where each element is either <code>0</code>, <code>1</code>, or <code>2</code>.</p>
+<h2><a href="https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment">3733. Length of Longest V-Shaped Diagonal Segment</a></h2><h3>Hard</h3><hr><p>You are given a 2D integer matrix <code>grid</code> of size <code>n x m</code>, where each element is either <code>0</code>, <code>1</code>, or <code>2</code>.</p>
 
 <p>A <strong>V-shaped diagonal segment</strong> is defined as:</p>
 
