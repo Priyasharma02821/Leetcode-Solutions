@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0768-partition-labels) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0135-candy) |
@@ -276,6 +278,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [1160-letter-tile-possibilities](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -517,6 +520,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
