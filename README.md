@@ -167,6 +167,7 @@
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -255,6 +256,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -460,6 +462,7 @@
 | [2689-rearranging-fruits](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3647-zero-array-transformation-iii) |
@@ -501,6 +504,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Recursion
@@ -562,4 +566,8 @@
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
