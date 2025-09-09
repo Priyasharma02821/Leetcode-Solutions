@@ -198,6 +198,7 @@
 | [2048-build-array-from-permutation](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -361,6 +362,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -434,6 +436,7 @@
 ## Queue
 |  |
 | ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Priyasharma02821/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Topological Sort
